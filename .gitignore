@@ -25,6 +25,9 @@ submission.xlsx
 outputs/*.csv
 outputs/*.xlsx
 outputs/*.md
+outputs/*.json
+outputs/submission.csv
+outputs/submission.xlsx
 outputs/*report*.md
 outputs/*audit*.md
 outputs/*review*.md
