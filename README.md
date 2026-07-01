@@ -217,6 +217,17 @@ streamlit run sandbox/app.py
 
 The sandbox is a small-sample demo. It accepts JSON/JSONL candidate samples, shows ranked candidates, candidate reasoning, validation status, and demo CSV/XLSX downloads. The full 100K run is CLI-only.
 
+Live sandbox:
+
+https://signalrank-ai-90.streamlit.app
+
+Deployment settings:
+
+- Main file path: `sandbox/app.py`
+- Python: `3.11`
+- Secrets: none
+- Full dataset is not included or needed for sandbox
+
 ## Project Structure
 
 ```text

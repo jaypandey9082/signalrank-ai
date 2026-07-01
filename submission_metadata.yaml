@@ -11,7 +11,7 @@ team_members:
     role: "Project Lead"
 
 github_repo: "https://github.com/jaypandey9082/signalrank-ai"
-sandbox_link: "TODO: Add deployed Streamlit/HuggingFace link if required by portal"
+sandbox_link: "https://signalrank-ai-90.streamlit.app"
 
 reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
 optional_xlsx_command: "python generate_submission.py --candidates ./candidates.jsonl --out ./outputs/submission.csv --xlsx ./outputs/submission.xlsx --report-out ./outputs/submission_run_report.md"
