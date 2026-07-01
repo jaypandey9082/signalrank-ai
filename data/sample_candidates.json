@@ -1,0 +1,248 @@
+[
+  {
+    "candidate_id": "CAND_0000001",
+    "profile": {
+      "anonymized_name": "Candidate One",
+      "headline": "Machine learning engineer focused on search and recommendations",
+      "summary": "Built ranking and retrieval systems for marketplace search, recommendations, and candidate matching.",
+      "location": "Bengaluru, Karnataka",
+      "country": "India",
+      "years_of_experience": 8.2,
+      "current_title": "Senior Machine Learning Engineer",
+      "current_company": "SearchWorks Labs",
+      "current_company_size": "201-500",
+      "current_industry": "Internet"
+    },
+    "career_history": [
+      {
+        "company": "SearchWorks Labs",
+        "title": "Senior Machine Learning Engineer",
+        "start_date": "2021-06-01",
+        "end_date": null,
+        "duration_months": 37,
+        "is_current": true,
+        "industry": "Internet",
+        "company_size": "201-500",
+        "description": "Owned learning-to-rank experiments, offline evaluation, and feature pipelines for search relevance."
+      },
+      {
+        "company": "TalentGraph",
+        "title": "Machine Learning Engineer",
+        "start_date": "2017-07-01",
+        "end_date": "2021-05-31",
+        "duration_months": 47,
+        "is_current": false,
+        "industry": "HR Tech",
+        "company_size": "51-200",
+        "description": "Improved recommendation quality using candidate profile signals and job interaction data."
+      }
+    ],
+    "education": [
+      {
+        "institution": "National Institute of Technology",
+        "degree": "M.Tech",
+        "field_of_study": "Computer Science",
+        "start_year": 2015,
+        "end_year": 2017,
+        "grade": "8.8 CGPA",
+        "tier": "tier_1"
+      }
+    ],
+    "skills": [
+      {"name": "Python", "proficiency": "expert", "endorsements": 42, "duration_months": 96},
+      {"name": "Learning to Rank", "proficiency": "advanced", "endorsements": 25, "duration_months": 48},
+      {"name": "Search Relevance", "proficiency": "advanced", "endorsements": 21, "duration_months": 45},
+      {"name": "Recommendation Systems", "proficiency": "advanced", "endorsements": 19, "duration_months": 44}
+    ],
+    "certifications": [
+      {"name": "Machine Learning Specialization", "issuer": "Coursera", "year": 2018}
+    ],
+    "languages": [
+      {"language": "English", "proficiency": "professional"}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 92,
+      "signup_date": "2025-10-01",
+      "last_active_date": "2026-06-15",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 180,
+      "applications_submitted_30d": 3,
+      "recruiter_response_rate": 0.82,
+      "avg_response_time_hours": 10.5,
+      "skill_assessment_scores": {"Python": 91, "Learning to Rank": 84},
+      "connection_count": 420,
+      "endorsements_received": 72,
+      "notice_period_days": 30,
+      "expected_salary_range_inr_lpa": {"min": 38, "max": 55},
+      "preferred_work_mode": "hybrid",
+      "willing_to_relocate": true,
+      "github_activity_score": 78,
+      "search_appearance_30d": 240,
+      "saved_by_recruiters_30d": 18,
+      "interview_completion_rate": 0.9,
+      "offer_acceptance_rate": 0.65,
+      "verified_email": true,
+      "verified_phone": true,
+      "linkedin_connected": true
+    }
+  },
+  {
+    "candidate_id": "CAND_0000002",
+    "profile": {
+      "anonymized_name": "Candidate Two",
+      "headline": "AI ML Python Deep Learning LLM NLP Computer Vision Expert",
+      "summary": "Lists many AI keywords, but recent work is mostly campaign operations and generic content tagging.",
+      "location": "Mumbai, Maharashtra",
+      "country": "India",
+      "years_of_experience": 4.5,
+      "current_title": "Digital Marketing Associate",
+      "current_company": "BrandLift Studio",
+      "current_company_size": "11-50",
+      "current_industry": "Marketing"
+    },
+    "career_history": [
+      {
+        "company": "BrandLift Studio",
+        "title": "Digital Marketing Associate",
+        "start_date": "2021-01-01",
+        "end_date": null,
+        "duration_months": 42,
+        "is_current": true,
+        "industry": "Marketing",
+        "company_size": "11-50",
+        "description": "Managed campaign dashboards, wrote SEO copy, and added keyword tags to content calendars."
+      }
+    ],
+    "education": [
+      {
+        "institution": "City Business College",
+        "degree": "BBA",
+        "field_of_study": "Marketing",
+        "start_year": 2016,
+        "end_year": 2019,
+        "grade": "First Class",
+        "tier": "tier_3"
+      }
+    ],
+    "skills": [
+      {"name": "AI", "proficiency": "advanced", "endorsements": 2, "duration_months": 4},
+      {"name": "ML", "proficiency": "advanced", "endorsements": 2, "duration_months": 4},
+      {"name": "Python", "proficiency": "beginner", "endorsements": 1, "duration_months": 3},
+      {"name": "SEO", "proficiency": "expert", "endorsements": 15, "duration_months": 48}
+    ],
+    "certifications": [],
+    "languages": [
+      {"language": "English", "proficiency": "professional"}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 74,
+      "signup_date": "2025-09-12",
+      "last_active_date": "2026-05-02",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 35,
+      "applications_submitted_30d": 14,
+      "recruiter_response_rate": 0.24,
+      "avg_response_time_hours": 72,
+      "skill_assessment_scores": {"Python": 32},
+      "connection_count": 190,
+      "endorsements_received": 20,
+      "notice_period_days": 45,
+      "expected_salary_range_inr_lpa": {"min": 12, "max": 18},
+      "preferred_work_mode": "remote",
+      "willing_to_relocate": false,
+      "github_activity_score": -1,
+      "search_appearance_30d": 62,
+      "saved_by_recruiters_30d": 1,
+      "interview_completion_rate": 0.45,
+      "offer_acceptance_rate": 0.1,
+      "verified_email": true,
+      "verified_phone": true,
+      "linkedin_connected": false
+    }
+  },
+  {
+    "candidate_id": "CAND_0000003",
+    "profile": {
+      "anonymized_name": "Candidate Three",
+      "headline": "Backend engineer with data platform experience",
+      "summary": "Built APIs, batch jobs, and analytics pipelines for product data, with some exposure to ML feature stores.",
+      "location": "Hyderabad, Telangana",
+      "country": "India",
+      "years_of_experience": 6.0,
+      "current_title": "Senior Backend Engineer",
+      "current_company": "DataBridge Systems",
+      "current_company_size": "501-1000",
+      "current_industry": "SaaS"
+    },
+    "career_history": [
+      {
+        "company": "DataBridge Systems",
+        "title": "Senior Backend Engineer",
+        "start_date": "2022-02-01",
+        "end_date": null,
+        "duration_months": 29,
+        "is_current": true,
+        "industry": "SaaS",
+        "company_size": "501-1000",
+        "description": "Designed Python services and batch data pipelines used by analytics and ML teams."
+      },
+      {
+        "company": "MetricLoop",
+        "title": "Data Engineer",
+        "start_date": "2018-07-01",
+        "end_date": "2022-01-31",
+        "duration_months": 43,
+        "is_current": false,
+        "industry": "Analytics",
+        "company_size": "51-200",
+        "description": "Maintained ETL jobs, warehouse tables, and feature export jobs for model training."
+      }
+    ],
+    "education": [
+      {
+        "institution": "State Engineering College",
+        "degree": "B.Tech",
+        "field_of_study": "Information Technology",
+        "start_year": 2014,
+        "end_year": 2018,
+        "grade": "8.1 CGPA",
+        "tier": "tier_2"
+      }
+    ],
+    "skills": [
+      {"name": "Python", "proficiency": "advanced", "endorsements": 24, "duration_months": 72},
+      {"name": "SQL", "proficiency": "advanced", "endorsements": 30, "duration_months": 72},
+      {"name": "Data Pipelines", "proficiency": "advanced", "endorsements": 18, "duration_months": 60},
+      {"name": "APIs", "proficiency": "advanced", "endorsements": 16, "duration_months": 70}
+    ],
+    "certifications": [],
+    "languages": [
+      {"language": "English", "proficiency": "professional"}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 86,
+      "signup_date": "2025-11-20",
+      "last_active_date": "2026-06-01",
+      "open_to_work_flag": false,
+      "profile_views_received_30d": 95,
+      "applications_submitted_30d": 1,
+      "recruiter_response_rate": 0.68,
+      "avg_response_time_hours": 20,
+      "skill_assessment_scores": {"Python": 82, "SQL": 88},
+      "connection_count": 260,
+      "endorsements_received": 42,
+      "notice_period_days": 60,
+      "expected_salary_range_inr_lpa": {"min": 26, "max": 35},
+      "preferred_work_mode": "flexible",
+      "willing_to_relocate": true,
+      "github_activity_score": 40,
+      "search_appearance_30d": 120,
+      "saved_by_recruiters_30d": 6,
+      "interview_completion_rate": 0.76,
+      "offer_acceptance_rate": 0.5,
+      "verified_email": true,
+      "verified_phone": true,
+      "linkedin_connected": true
+    }
+  }
+]

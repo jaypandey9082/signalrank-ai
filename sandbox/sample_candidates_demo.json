@@ -1,0 +1,489 @@
+[
+  {
+    "candidate_id": "CAND_9000001",
+    "profile": {
+      "anonymized_name": "Demo Candidate 1",
+      "headline": "Search and recommendation ML engineer",
+      "summary": "Built production ranking, retrieval, and recommendation systems for marketplace discovery.",
+      "location": "Pune",
+      "country": "India",
+      "years_of_experience": 7.2,
+      "current_title": "Senior Machine Learning Engineer",
+      "current_company": "MarketSearch",
+      "current_company_size": "201-500",
+      "current_industry": "E-commerce"
+    },
+    "career_history": [
+      {
+        "company": "MarketSearch",
+        "title": "Senior Machine Learning Engineer",
+        "start_date": "2021-04-01",
+        "end_date": null,
+        "duration_months": 39,
+        "is_current": true,
+        "industry": "E-commerce",
+        "company_size": "201-500",
+        "description": "Owned learning-to-rank experiments for search relevance, shipped FAISS retrieval pipelines, and measured NDCG and MRR."
+      },
+      {
+        "company": "ShopGraph",
+        "title": "Machine Learning Engineer",
+        "start_date": "2017-08-01",
+        "end_date": "2021-03-31",
+        "duration_months": 43,
+        "is_current": false,
+        "industry": "Marketplace",
+        "company_size": "51-200",
+        "description": "Improved recommendation systems using embeddings, user behavior features, and offline evaluation."
+      }
+    ],
+    "education": [{"institution": "NIT", "degree": "M.Tech", "field_of_study": "Computer Science", "start_year": 2015, "end_year": 2017, "grade": "8.8", "tier": "tier_1"}],
+    "skills": [
+      {"name": "Learning to Rank", "proficiency": "expert", "endorsements": 34, "duration_months": 60},
+      {"name": "FAISS", "proficiency": "advanced", "endorsements": 19, "duration_months": 36},
+      {"name": "NDCG", "proficiency": "advanced", "endorsements": 16, "duration_months": 34},
+      {"name": "Python", "proficiency": "expert", "endorsements": 48, "duration_months": 96}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 94,
+      "signup_date": "2025-08-01",
+      "last_active_date": "2026-06-25",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 220,
+      "applications_submitted_30d": 4,
+      "recruiter_response_rate": 0.86,
+      "avg_response_time_hours": 12,
+      "skill_assessment_scores": {"Python": 92, "ML": 88},
+      "connection_count": 510,
+      "endorsements_received": 80,
+      "notice_period_days": 30,
+      "expected_salary_range_inr_lpa": {"min": 38, "max": 55},
+      "preferred_work_mode": "hybrid",
+      "willing_to_relocate": true,
+      "github_activity_score": 82,
+      "search_appearance_30d": 270,
+      "saved_by_recruiters_30d": 21,
+      "interview_completion_rate": 0.92,
+      "offer_acceptance_rate": 0.72,
+      "verified_email": true,
+      "verified_phone": true,
+      "linkedin_connected": true
+    }
+  },
+  {
+    "candidate_id": "CAND_9000002",
+    "profile": {
+      "anonymized_name": "Demo Candidate 2",
+      "headline": "Recommendation systems engineer",
+      "summary": "Works on recommender systems, ranking models, embeddings, and online experiments.",
+      "location": "Noida",
+      "country": "India",
+      "years_of_experience": 6.4,
+      "current_title": "Recommendation Systems Engineer",
+      "current_company": "FoodLoop",
+      "current_company_size": "501-1000",
+      "current_industry": "Food Delivery"
+    },
+    "career_history": [
+      {
+        "company": "FoodLoop",
+        "title": "Recommendation Systems Engineer",
+        "start_date": "2020-01-01",
+        "end_date": null,
+        "duration_months": 54,
+        "is_current": true,
+        "industry": "Food Delivery",
+        "company_size": "501-1000",
+        "description": "Shipped ranking models for restaurant recommendations, monitored latency, and ran A/B tests on click-through and conversion."
+      }
+    ],
+    "education": [{"institution": "IIIT", "degree": "B.Tech", "field_of_study": "Data Science", "start_year": 2014, "end_year": 2018, "grade": "8.5", "tier": "tier_1"}],
+    "skills": [
+      {"name": "Recommendation Systems", "proficiency": "expert", "endorsements": 31, "duration_months": 62},
+      {"name": "Embeddings", "proficiency": "advanced", "endorsements": 22, "duration_months": 40},
+      {"name": "A/B Test", "proficiency": "advanced", "endorsements": 18, "duration_months": 38},
+      {"name": "Python", "proficiency": "expert", "endorsements": 44, "duration_months": 84}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 90,
+      "signup_date": "2025-07-10",
+      "last_active_date": "2026-06-20",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 180,
+      "applications_submitted_30d": 5,
+      "recruiter_response_rate": 0.78,
+      "avg_response_time_hours": 16,
+      "skill_assessment_scores": {"Python": 89, "Ranking": 86},
+      "connection_count": 390,
+      "endorsements_received": 67,
+      "notice_period_days": 45,
+      "expected_salary_range_inr_lpa": {"min": 34, "max": 50},
+      "preferred_work_mode": "hybrid",
+      "willing_to_relocate": true,
+      "github_activity_score": 76,
+      "search_appearance_30d": 210,
+      "saved_by_recruiters_30d": 14,
+      "interview_completion_rate": 0.88,
+      "offer_acceptance_rate": 0.68,
+      "verified_email": true,
+      "verified_phone": true,
+      "linkedin_connected": true
+    }
+  },
+  {
+    "candidate_id": "CAND_9000003",
+    "profile": {
+      "anonymized_name": "Demo Candidate 3",
+      "headline": "Backend engineer with ML platform exposure",
+      "summary": "Built APIs and data pipelines that supported model training and feature exports.",
+      "location": "Hyderabad",
+      "country": "India",
+      "years_of_experience": 6.0,
+      "current_title": "Senior Backend Engineer",
+      "current_company": "DataBridge",
+      "current_company_size": "501-1000",
+      "current_industry": "SaaS"
+    },
+    "career_history": [
+      {
+        "company": "DataBridge",
+        "title": "Senior Backend Engineer",
+        "start_date": "2021-05-01",
+        "end_date": null,
+        "duration_months": 38,
+        "is_current": true,
+        "industry": "SaaS",
+        "company_size": "501-1000",
+        "description": "Designed Python services, batch jobs, and feature export pipelines used by analytics and ML teams."
+      }
+    ],
+    "education": [{"institution": "State Engineering College", "degree": "B.Tech", "field_of_study": "Information Technology", "start_year": 2014, "end_year": 2018, "grade": "8.1", "tier": "tier_2"}],
+    "skills": [
+      {"name": "Python", "proficiency": "advanced", "endorsements": 24, "duration_months": 72},
+      {"name": "SQL", "proficiency": "advanced", "endorsements": 28, "duration_months": 72},
+      {"name": "Data Pipelines", "proficiency": "advanced", "endorsements": 20, "duration_months": 60}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 84,
+      "signup_date": "2025-11-01",
+      "last_active_date": "2026-06-10",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 95,
+      "applications_submitted_30d": 6,
+      "recruiter_response_rate": 0.64,
+      "avg_response_time_hours": 30,
+      "skill_assessment_scores": {"Python": 82},
+      "connection_count": 310,
+      "endorsements_received": 42,
+      "notice_period_days": 30,
+      "expected_salary_range_inr_lpa": {"min": 28, "max": 40},
+      "preferred_work_mode": "flexible",
+      "willing_to_relocate": true,
+      "github_activity_score": 70,
+      "search_appearance_30d": 150,
+      "saved_by_recruiters_30d": 8,
+      "interview_completion_rate": 0.78,
+      "offer_acceptance_rate": 0.55,
+      "verified_email": true,
+      "verified_phone": true,
+      "linkedin_connected": false
+    }
+  },
+  {
+    "candidate_id": "CAND_9000004",
+    "profile": {
+      "anonymized_name": "Demo Candidate 4",
+      "headline": "Data engineer with search analytics exposure",
+      "summary": "Maintained warehouse tables and analytics feeds for product search dashboards.",
+      "location": "Mumbai",
+      "country": "India",
+      "years_of_experience": 5.8,
+      "current_title": "Data Engineer",
+      "current_company": "MetricLoop",
+      "current_company_size": "51-200",
+      "current_industry": "Analytics"
+    },
+    "career_history": [
+      {
+        "company": "MetricLoop",
+        "title": "Data Engineer",
+        "start_date": "2019-08-01",
+        "end_date": null,
+        "duration_months": 59,
+        "is_current": true,
+        "industry": "Analytics",
+        "company_size": "51-200",
+        "description": "Maintained ETL jobs, search analytics datasets, and feature tables for model training."
+      }
+    ],
+    "education": [{"institution": "Mumbai University", "degree": "B.E.", "field_of_study": "Computer Science", "start_year": 2014, "end_year": 2018, "grade": "First Class", "tier": "tier_2"}],
+    "skills": [
+      {"name": "SQL", "proficiency": "expert", "endorsements": 30, "duration_months": 72},
+      {"name": "Python", "proficiency": "advanced", "endorsements": 22, "duration_months": 60},
+      {"name": "ETL", "proficiency": "advanced", "endorsements": 18, "duration_months": 54}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 82,
+      "signup_date": "2025-09-01",
+      "last_active_date": "2026-05-28",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 80,
+      "applications_submitted_30d": 4,
+      "recruiter_response_rate": 0.58,
+      "avg_response_time_hours": 42,
+      "skill_assessment_scores": {"SQL": 87},
+      "connection_count": 260,
+      "endorsements_received": 36,
+      "notice_period_days": 60,
+      "expected_salary_range_inr_lpa": {"min": 24, "max": 36},
+      "preferred_work_mode": "hybrid",
+      "willing_to_relocate": true,
+      "github_activity_score": 62,
+      "search_appearance_30d": 120,
+      "saved_by_recruiters_30d": 5,
+      "interview_completion_rate": 0.74,
+      "offer_acceptance_rate": 0.5,
+      "verified_email": true,
+      "verified_phone": false,
+      "linkedin_connected": true
+    }
+  },
+  {
+    "candidate_id": "CAND_9000005",
+    "profile": {
+      "anonymized_name": "Demo Candidate 5",
+      "headline": "AI ML LLM prompt expert",
+      "summary": "Lists AI tools and chatbot demos, but career evidence is marketing campaign work.",
+      "location": "Delhi",
+      "country": "India",
+      "years_of_experience": 4.2,
+      "current_title": "Marketing Manager",
+      "current_company": "BrandLift",
+      "current_company_size": "11-50",
+      "current_industry": "Marketing"
+    },
+    "career_history": [
+      {
+        "company": "BrandLift",
+        "title": "Marketing Manager",
+        "start_date": "2020-06-01",
+        "end_date": null,
+        "duration_months": 49,
+        "is_current": true,
+        "industry": "Marketing",
+        "company_size": "11-50",
+        "description": "Managed content calendars, SEO dashboards, campaign analytics, and social media planning."
+      }
+    ],
+    "education": [{"institution": "Business College", "degree": "BBA", "field_of_study": "Marketing", "start_year": 2015, "end_year": 2018, "grade": "First Class", "tier": "tier_3"}],
+    "skills": [
+      {"name": "LangChain", "proficiency": "expert", "endorsements": 5, "duration_months": 2},
+      {"name": "Prompt Engineering", "proficiency": "expert", "endorsements": 8, "duration_months": 3},
+      {"name": "OpenAI API", "proficiency": "expert", "endorsements": 4, "duration_months": 2},
+      {"name": "SEO", "proficiency": "expert", "endorsements": 20, "duration_months": 48}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 76,
+      "signup_date": "2025-10-10",
+      "last_active_date": "2026-06-05",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 55,
+      "applications_submitted_30d": 12,
+      "recruiter_response_rate": 0.32,
+      "avg_response_time_hours": 80,
+      "skill_assessment_scores": {"Python": 30},
+      "connection_count": 220,
+      "endorsements_received": 24,
+      "notice_period_days": 45,
+      "expected_salary_range_inr_lpa": {"min": 16, "max": 24},
+      "preferred_work_mode": "remote",
+      "willing_to_relocate": false,
+      "github_activity_score": -1,
+      "search_appearance_30d": 65,
+      "saved_by_recruiters_30d": 1,
+      "interview_completion_rate": 0.46,
+      "offer_acceptance_rate": 0.2,
+      "verified_email": true,
+      "verified_phone": true,
+      "linkedin_connected": false
+    }
+  },
+  {
+    "candidate_id": "CAND_9000006",
+    "profile": {
+      "anonymized_name": "Demo Candidate 6",
+      "headline": "AI enthusiast and operations lead",
+      "summary": "Mentions embeddings and vector search, but role history is operations and process reporting.",
+      "location": "Chennai",
+      "country": "India",
+      "years_of_experience": 7.0,
+      "current_title": "Operations Manager",
+      "current_company": "OpsHub",
+      "current_company_size": "51-200",
+      "current_industry": "Operations"
+    },
+    "career_history": [
+      {
+        "company": "OpsHub",
+        "title": "Operations Manager",
+        "start_date": "2018-07-01",
+        "end_date": null,
+        "duration_months": 72,
+        "is_current": true,
+        "industry": "Operations",
+        "company_size": "51-200",
+        "description": "Managed process dashboards, staffing reports, vendor reviews, and weekly planning."
+      }
+    ],
+    "education": [{"institution": "City College", "degree": "MBA", "field_of_study": "Operations", "start_year": 2014, "end_year": 2016, "grade": "First Class", "tier": "tier_3"}],
+    "skills": [
+      {"name": "Embeddings", "proficiency": "expert", "endorsements": 4, "duration_months": 0},
+      {"name": "Vector Search", "proficiency": "expert", "endorsements": 3, "duration_months": 0},
+      {"name": "ChatGPT", "proficiency": "expert", "endorsements": 6, "duration_months": 2},
+      {"name": "Operations", "proficiency": "expert", "endorsements": 25, "duration_months": 84}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 70,
+      "signup_date": "2025-12-01",
+      "last_active_date": "2026-05-15",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 42,
+      "applications_submitted_30d": 9,
+      "recruiter_response_rate": 0.28,
+      "avg_response_time_hours": 96,
+      "skill_assessment_scores": {},
+      "connection_count": 180,
+      "endorsements_received": 18,
+      "notice_period_days": 60,
+      "expected_salary_range_inr_lpa": {"min": 18, "max": 28},
+      "preferred_work_mode": "remote",
+      "willing_to_relocate": false,
+      "github_activity_score": -1,
+      "search_appearance_30d": 50,
+      "saved_by_recruiters_30d": 0,
+      "interview_completion_rate": 0.4,
+      "offer_acceptance_rate": 0.1,
+      "verified_email": true,
+      "verified_phone": false,
+      "linkedin_connected": false
+    }
+  },
+  {
+    "candidate_id": "CAND_9000007",
+    "profile": {
+      "anonymized_name": "Demo Candidate 7",
+      "headline": "Strong ML engineer with availability risk",
+      "summary": "Built semantic search and ranking evaluation, but platform activity and responsiveness are weak.",
+      "location": "Bengaluru",
+      "country": "India",
+      "years_of_experience": 8.0,
+      "current_title": "Search Engineer",
+      "current_company": "MediaFind",
+      "current_company_size": "201-500",
+      "current_industry": "Media"
+    },
+    "career_history": [
+      {
+        "company": "MediaFind",
+        "title": "Search Engineer",
+        "start_date": "2019-01-01",
+        "end_date": null,
+        "duration_months": 66,
+        "is_current": true,
+        "industry": "Media",
+        "company_size": "201-500",
+        "description": "Built semantic search ranking, relevance labels, offline evaluation, and rollout monitoring for production search."
+      }
+    ],
+    "education": [{"institution": "IIT", "degree": "B.Tech", "field_of_study": "Computer Science", "start_year": 2012, "end_year": 2016, "grade": "8.6", "tier": "tier_1"}],
+    "skills": [
+      {"name": "Semantic Search", "proficiency": "expert", "endorsements": 28, "duration_months": 60},
+      {"name": "BM25", "proficiency": "advanced", "endorsements": 14, "duration_months": 36},
+      {"name": "Relevance Labels", "proficiency": "advanced", "endorsements": 12, "duration_months": 30}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 88,
+      "signup_date": "2025-02-01",
+      "last_active_date": "2025-10-01",
+      "open_to_work_flag": false,
+      "profile_views_received_30d": 20,
+      "applications_submitted_30d": 0,
+      "recruiter_response_rate": 0.08,
+      "avg_response_time_hours": 240,
+      "skill_assessment_scores": {"Python": 90},
+      "connection_count": 450,
+      "endorsements_received": 60,
+      "notice_period_days": 120,
+      "expected_salary_range_inr_lpa": {"min": 45, "max": 65},
+      "preferred_work_mode": "remote",
+      "willing_to_relocate": false,
+      "github_activity_score": 80,
+      "search_appearance_30d": 30,
+      "saved_by_recruiters_30d": 1,
+      "interview_completion_rate": 0.35,
+      "offer_acceptance_rate": 0.0,
+      "verified_email": true,
+      "verified_phone": false,
+      "linkedin_connected": true
+    }
+  },
+  {
+    "candidate_id": "CAND_9000008",
+    "profile": {
+      "anonymized_name": "Demo Candidate 8",
+      "headline": "NLP engineer outside preferred locations",
+      "summary": "Built document retrieval and evaluation systems, but is outside India and not currently open to relocate.",
+      "location": "Singapore",
+      "country": "Singapore",
+      "years_of_experience": 6.7,
+      "current_title": "NLP Engineer",
+      "current_company": "DocuAI",
+      "current_company_size": "51-200",
+      "current_industry": "AI/ML"
+    },
+    "career_history": [
+      {
+        "company": "DocuAI",
+        "title": "NLP Engineer",
+        "start_date": "2020-03-01",
+        "end_date": null,
+        "duration_months": 52,
+        "is_current": true,
+        "industry": "AI/ML",
+        "company_size": "51-200",
+        "description": "Shipped document retrieval, embedding search, and evaluation dashboards for production enterprise users."
+      }
+    ],
+    "education": [{"institution": "University", "degree": "M.S.", "field_of_study": "Artificial Intelligence", "start_year": 2016, "end_year": 2018, "grade": "Distinction", "tier": "tier_2"}],
+    "skills": [
+      {"name": "Information Retrieval", "proficiency": "advanced", "endorsements": 22, "duration_months": 48},
+      {"name": "Embedding Search", "proficiency": "advanced", "endorsements": 20, "duration_months": 42},
+      {"name": "Python", "proficiency": "expert", "endorsements": 35, "duration_months": 84}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 86,
+      "signup_date": "2025-05-15",
+      "last_active_date": "2026-06-18",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 100,
+      "applications_submitted_30d": 2,
+      "recruiter_response_rate": 0.7,
+      "avg_response_time_hours": 24,
+      "skill_assessment_scores": {"Python": 88, "NLP": 86},
+      "connection_count": 330,
+      "endorsements_received": 52,
+      "notice_period_days": 60,
+      "expected_salary_range_inr_lpa": {"min": 42, "max": 62},
+      "preferred_work_mode": "remote",
+      "willing_to_relocate": false,
+      "github_activity_score": 74,
+      "search_appearance_30d": 140,
+      "saved_by_recruiters_30d": 7,
+      "interview_completion_rate": 0.82,
+      "offer_acceptance_rate": 0.6,
+      "verified_email": true,
+      "verified_phone": true,
+      "linkedin_connected": true
+    }
+  }
+]

@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Full challenge data - never commit
+candidates.jsonl
+candidates.jsonl.gz
+data/candidates.jsonl
+data/candidates.jsonl.gz
+
+# Final generated outputs - local only
+submission.csv
+submission.xlsx
+outputs/*.csv
+outputs/*.xlsx
+outputs/*.md
+outputs/*report*.md
+outputs/*audit*.md
+outputs/*review*.md
+outputs/*benchmark*.md
+outputs/submission_run_report.md
+outputs/top100_review.md
+benchmark_report.md
+benchmark_submission_run1.csv
+benchmark_submission_run2.csv
+
+# Debug and preview outputs
+outputs/debug_*.csv
+outputs/*preview*.csv
+outputs/*preview*.md
+outputs/*quality*.md
+outputs/*profile*.txt
+debug_features_sample.csv
+debug_redrob_sample.csv
+debug_static_scores_sample.csv
+debug_traps_sample.csv
+
+# Submission packet artifacts
+submission_packet/
+signalrank_submission_packet.zip
+
+# Keep placeholders/samples
+!outputs/.gitkeep
+!data/.gitkeep
+!data/sample_candidates.json
+!data/sample_candidates_tiny.json

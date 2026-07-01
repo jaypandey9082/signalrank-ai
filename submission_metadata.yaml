@@ -1,0 +1,50 @@
+team_name: "TODO: Team name"
+
+primary_contact:
+  name: "TODO: Primary contact name"
+  email: "TODO: Primary contact email"
+  phone: "TODO: Primary contact phone"
+
+team_members:
+  - name: "TODO: Member name"
+    email: "TODO: Member email"
+    role: "Project Lead"
+
+github_repo: "https://github.com/jaypandey9082/signalrank-ai"
+sandbox_link: "TODO: Add deployed Streamlit/HuggingFace link if required by portal"
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+optional_xlsx_command: "python generate_submission.py --candidates ./candidates.jsonl --out ./outputs/submission.csv --xlsx ./outputs/submission.xlsx --report-out ./outputs/submission_run_report.md"
+
+compute:
+  platform: "TODO: e.g. MacBook Air M1"
+  cpu_cores: 8
+  ram_gb: 8
+  python_version: "3.11"
+  os: "TODO"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: false
+  pre_computation_time_minutes: 0
+
+ai_tools_used:
+  - "ChatGPT"
+  - "Codex"
+
+ai_usage_summary: |
+  Used AI tools for planning, implementation support, debugging, refactoring, and documentation.
+  The ranking step itself is deterministic local Python code with no hosted API calls during execution.
+
+methodology_summary: |
+  SignalRank AI uses an evidence-first deterministic ranking pipeline for the Senior AI Engineer role.
+  Static fit is scored from career evidence, retrieval/ranking signals, evaluation terms, production ML context,
+  experience, location, and education. Redrob behavior signals apply a narrow hireability multiplier, while
+  trap and honeypot-style penalties reduce keyword-stuffed or inconsistent profiles. Final reasoning is generated
+  deterministically from extracted evidence and scorecards.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true

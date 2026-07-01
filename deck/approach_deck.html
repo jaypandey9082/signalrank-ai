@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SignalRank AI Approach Deck</title>
+  <style>
+    :root {
+      --ink: #172033;
+      --muted: #546173;
+      --rule: #d8dde6;
+      --accent: #1f6feb;
+      --soft: #f7f9fc;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      color: var(--ink);
+      background: #e9edf3;
+    }
+    .slide {
+      width: 11in;
+      height: 6.1875in;
+      margin: 24px auto;
+      padding: 0.62in 0.72in;
+      background: white;
+      border: 1px solid var(--rule);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      page-break-after: always;
+    }
+    h1 {
+      margin: 0 0 0.24in;
+      font-size: 42px;
+      line-height: 1.08;
+      letter-spacing: 0;
+    }
+    h2 {
+      margin: 0 0 0.16in;
+      color: var(--accent);
+      font-size: 18px;
+      letter-spacing: 0;
+      text-transform: uppercase;
+    }
+    p, li {
+      font-size: 24px;
+      line-height: 1.38;
+      margin: 0 0 0.12in;
+    }
+    ul {
+      margin: 0;
+      padding-left: 0.28in;
+    }
+    code, pre {
+      font-family: "SFMono-Regular", Consolas, monospace;
+      font-size: 20px;
+      background: var(--soft);
+      border: 1px solid var(--rule);
+      border-radius: 6px;
+    }
+    pre {
+      padding: 18px;
+      white-space: pre-wrap;
+    }
+    .subtitle {
+      color: var(--muted);
+      font-size: 26px;
+    }
+    .footer {
+      margin-top: auto;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    @page {
+      size: landscape;
+      margin: 0;
+    }
+    @media print {
+      body { background: white; }
+      .slide {
+        margin: 0;
+        border: 0;
+        width: 11in;
+        height: 6.1875in;
+      }
+    }
+  </style>
+</head>
+<body>
+  <section class="slide">
+    <h1>SignalRank AI</h1>
+    <p class="subtitle">Explainable Candidate Discovery Engine</p>
+    <p class="footer">Redrob / Hack2skill Data & AI Challenge</p>
+  </section>
+  <section class="slide">
+    <h2>Problem</h2>
+    <h1>Recruiting search fails when it ranks keywords instead of real fit.</h1>
+    <p>SignalRank AI separates shipped career evidence from shallow AI buzzwords.</p>
+  </section>
+  <section class="slide">
+    <h2>What the JD Really Needs</h2>
+    <ul>
+      <li>Production ranking, search, retrieval, and recommendations</li>
+      <li>Embeddings and vector search</li>
+      <li>Evaluation frameworks and product engineering</li>
+      <li>Availability and hiring readiness</li>
+    </ul>
+  </section>
+  <section class="slide">
+    <h2>System Architecture</h2>
+    <pre>Candidate data -> parsing -> features -> static fit
+  -> Redrob behavior -> trap penalties -> ranking
+  -> deterministic reasoning -> CSV/XLSX</pre>
+  </section>
+  <section class="slide">
+    <h2>Static Fit Scoring</h2>
+    <ul>
+      <li>Career evidence and retrieval/ranking proof</li>
+      <li>Skills as support, not proof</li>
+      <li>Experience, product context, location, and evaluation</li>
+    </ul>
+  </section>
+  <section class="slide">
+    <h2>Redrob Behavior Scoring</h2>
+    <ul>
+      <li>Activity, response rate, notice, relocation, reliability</li>
+      <li>Profile trust and technical activity</li>
+      <li>Narrow multiplier so behavior does not overpower fit</li>
+    </ul>
+  </section>
+  <section class="slide">
+    <h2>Trap Defense</h2>
+    <ul>
+      <li>Wrong-role keyword stuffing</li>
+      <li>Weak AI hype without production evidence</li>
+      <li>Impossible or inconsistent profile signals</li>
+      <li>Non-target AI-only profiles</li>
+    </ul>
+  </section>
+  <section class="slide">
+    <h2>Reasoning</h2>
+    <ul>
+      <li>Specific, factual, JD-connected, and concern-aware</li>
+      <li>Generated from extracted evidence and scorecards</li>
+      <li>No hosted LLM calls during ranking</li>
+    </ul>
+  </section>
+  <section class="slide">
+    <h2>Runtime and Reproducibility</h2>
+    <ul>
+      <li>Full 100K CSV-only run: about 3m16s-3m23s locally</li>
+      <li>CPU-only and no network during ranking</li>
+      <li>Deterministic repeat hash</li>
+    </ul>
+  </section>
+  <section class="slide">
+    <h2>Demo and Submission</h2>
+    <ul>
+      <li>Public GitHub repo and Streamlit sandbox</li>
+      <li>Canonical CSV for validator</li>
+      <li>Synced XLSX for portal convenience</li>
+      <li>PDF approach deck</li>
+    </ul>
+  </section>
+</body>
+</html>

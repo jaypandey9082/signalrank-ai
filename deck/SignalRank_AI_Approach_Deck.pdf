@@ -1,0 +1,327 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R] /Count 10 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 228 >>
+stream
+BT
+/F2 34 Tf
+56 540 Td
+(SignalRank AI) Tj
+/F1 20 Tf
+0 -50 Td
+(- Explainable Candidate Discovery Engine) Tj
+0 -28 Td
+0 -8 Td
+(- Redrob / Hack2skill Data & AI Challenge) Tj
+0 -28 Td
+0 -8 Td
+/F1 10 Tf
+0 -28 Td
+(SignalRank AI) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 311 >>
+stream
+BT
+/F2 34 Tf
+56 540 Td
+(Problem) Tj
+/F1 20 Tf
+0 -50 Td
+(- Recruiting search fails when it ranks keywords instead of real) Tj
+0 -28 Td
+(  fit.) Tj
+0 -28 Td
+0 -8 Td
+(- SignalRank AI separates shipped evidence from shallow AI) Tj
+0 -28 Td
+(  buzzwords.) Tj
+0 -28 Td
+0 -8 Td
+/F1 10 Tf
+0 -28 Td
+(SignalRank AI) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 368 >>
+stream
+BT
+/F2 34 Tf
+56 540 Td
+(What The JD Really Needs) Tj
+/F1 20 Tf
+0 -50 Td
+(- Production ranking/search/retrieval) Tj
+0 -28 Td
+0 -8 Td
+(- Recommendation systems) Tj
+0 -28 Td
+0 -8 Td
+(- Embeddings/vector search) Tj
+0 -28 Td
+0 -8 Td
+(- Evaluation frameworks) Tj
+0 -28 Td
+0 -8 Td
+(- Product engineering ownership) Tj
+0 -28 Td
+0 -8 Td
+/F1 10 Tf
+0 -28 Td
+(SignalRank AI) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 318 >>
+stream
+BT
+/F2 34 Tf
+56 540 Td
+(System Architecture) Tj
+/F1 20 Tf
+0 -50 Td
+(- Candidate data -> parsing -> features -> static fit) Tj
+0 -28 Td
+0 -8 Td
+(- -> Redrob behavior -> trap penalties -> ranking) Tj
+0 -28 Td
+0 -8 Td
+(- -> deterministic reasoning -> CSV/XLSX) Tj
+0 -28 Td
+0 -8 Td
+/F1 10 Tf
+0 -28 Td
+(SignalRank AI) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 313 >>
+stream
+BT
+/F2 34 Tf
+56 540 Td
+(Static Fit Scoring) Tj
+/F1 20 Tf
+0 -50 Td
+(- Career evidence) Tj
+0 -28 Td
+0 -8 Td
+(- Retrieval/ranking evidence) Tj
+0 -28 Td
+0 -8 Td
+(- Skills as support) Tj
+0 -28 Td
+0 -8 Td
+(- Experience, product context, location, evaluation) Tj
+0 -28 Td
+0 -8 Td
+/F1 10 Tf
+0 -28 Td
+(SignalRank AI) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 307 >>
+stream
+BT
+/F2 34 Tf
+56 540 Td
+(Redrob Behavior Scoring) Tj
+/F1 20 Tf
+0 -50 Td
+(- Recent activity) Tj
+0 -28 Td
+0 -8 Td
+(- Recruiter response rate) Tj
+0 -28 Td
+0 -8 Td
+(- Notice and relocation) Tj
+0 -28 Td
+0 -8 Td
+(- Profile trust and process reliability) Tj
+0 -28 Td
+0 -8 Td
+/F1 10 Tf
+0 -28 Td
+(SignalRank AI) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 308 >>
+stream
+BT
+/F2 34 Tf
+56 540 Td
+(Trap Defense) Tj
+/F1 20 Tf
+0 -50 Td
+(- Wrong-role keyword stuffing) Tj
+0 -28 Td
+0 -8 Td
+(- Weak AI hype) Tj
+0 -28 Td
+0 -8 Td
+(- Impossible or inconsistent profile signals) Tj
+0 -28 Td
+0 -8 Td
+(- Non-target AI-only profiles) Tj
+0 -28 Td
+0 -8 Td
+/F1 10 Tf
+0 -28 Td
+(SignalRank AI) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 18 0 R >>
+endobj
+18 0 obj
+<< /Length 291 >>
+stream
+BT
+/F2 34 Tf
+56 540 Td
+(Reasoning) Tj
+/F1 20 Tf
+0 -50 Td
+(- Specific, factual, JD-connected, concern-aware) Tj
+0 -28 Td
+0 -8 Td
+(- Deterministic evidence-based generation) Tj
+0 -28 Td
+0 -8 Td
+(- No hosted LLM calls during ranking) Tj
+0 -28 Td
+0 -8 Td
+/F1 10 Tf
+0 -28 Td
+(SignalRank AI) Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 20 0 R >>
+endobj
+20 0 obj
+<< /Length 317 >>
+stream
+BT
+/F2 34 Tf
+56 540 Td
+(Runtime and Reproducibility) Tj
+/F1 20 Tf
+0 -50 Td
+(- 100K CSV-only run: about 3m16s-3m23s locally) Tj
+0 -28 Td
+0 -8 Td
+(- CPU-only) Tj
+0 -28 Td
+0 -8 Td
+(- No network during ranking) Tj
+0 -28 Td
+0 -8 Td
+(- Deterministic repeat hash) Tj
+0 -28 Td
+0 -8 Td
+/F1 10 Tf
+0 -28 Td
+(SignalRank AI) Tj
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 22 0 R >>
+endobj
+22 0 obj
+<< /Length 288 >>
+stream
+BT
+/F2 34 Tf
+56 540 Td
+(Demo and Submission) Tj
+/F1 20 Tf
+0 -50 Td
+(- Public GitHub repo) Tj
+0 -28 Td
+0 -8 Td
+(- Streamlit sandbox) Tj
+0 -28 Td
+0 -8 Td
+(- Canonical CSV and synced XLSX) Tj
+0 -28 Td
+0 -8 Td
+(- PDF approach deck) Tj
+0 -28 Td
+0 -8 Td
+/F1 10 Tf
+0 -28 Td
+(SignalRank AI) Tj
+ET
+endstream
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000182 00000 n 
+0000000421 00000 n 
+0000000700 00000 n 
+0000000939 00000 n 
+0000001301 00000 n 
+0000001540 00000 n 
+0000001959 00000 n 
+0000002199 00000 n 
+0000002569 00000 n 
+0000002810 00000 n 
+0000003175 00000 n 
+0000003416 00000 n 
+0000003775 00000 n 
+0000004016 00000 n 
+0000004376 00000 n 
+0000004617 00000 n 
+0000004960 00000 n 
+0000005201 00000 n 
+0000005570 00000 n 
+0000005811 00000 n 
+trailer
+<< /Size 23 /Root 1 0 R >>
+startxref
+6151
+%%EOF
