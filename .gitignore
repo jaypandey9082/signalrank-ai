@@ -52,6 +52,8 @@ debug_traps_sample.csv
 # Submission packet artifacts
 submission_packet/
 signalrank_submission_packet.zip
+final_upload/
+*.zip
 
 # Keep placeholders/samples
 !outputs/.gitkeep
