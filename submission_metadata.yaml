@@ -1,9 +1,9 @@
-team_name: "TODO: Team name"
+team_name: "HackHorizon"
 
 primary_contact:
-  name: "TODO: Primary contact name"
-  email: "TODO: Primary contact email"
-  phone: "TODO: Primary contact phone"
+  name: "Jay Pandey"
+  email: "jaypandey.work@gmail.com"
+  phone: "+91 7275791292"
 
 team_members:
   - name: "TODO: Member name"
