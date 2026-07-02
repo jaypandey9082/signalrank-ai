@@ -219,7 +219,7 @@ The sandbox is a small-sample demo. It accepts JSON/JSONL candidate samples, sho
 
 Live sandbox:
 
-https://signalrank-ai-90.streamlit.app
+https://signalrank-ai-90.streamlit.app/
 
 Deployment settings:
 

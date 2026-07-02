@@ -2,12 +2,12 @@ team_name: "HackHorizon"
 
 primary_contact:
   name: "Jay Pandey"
-  email: "jaypandey.work@gmail.com"
+  email: "jaypandey.wok@gmail.com"
   phone: "+91 7275791292"
 
 team_members:
-  - name: "TODO: Member name"
-    email: "TODO: Member email"
+  - name: "Jay Pandey"
+    email: "jaypandey.wok@gmail.com"
     role: "Project Lead"
 
 github_repo: "https://github.com/jaypandey9082/signalrank-ai"
@@ -17,11 +17,11 @@ reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submi
 optional_xlsx_command: "python generate_submission.py --candidates ./candidates.jsonl --out ./outputs/submission.csv --xlsx ./outputs/submission.xlsx --report-out ./outputs/submission_run_report.md"
 
 compute:
-  platform: "TODO: e.g. MacBook Air M1"
+  platform: "Local macOS arm64"
   cpu_cores: 8
   ram_gb: 8
   python_version: "3.11"
-  os: "TODO"
+  os: "macOS"
   uses_gpu_for_inference: false
   has_network_during_ranking: false
   pre_computation_required: false

@@ -2,8 +2,8 @@
 
 ## Artifact Manifest
 
-- GitHub repo URL: `TODO: public GitHub repo URL`
-- Sandbox URL: `TODO: deployed Streamlit/HuggingFace Spaces URL`
+- GitHub repo URL: `https://github.com/jaypandey9082/signalrank-ai`
+- Sandbox URL: `https://signalrank-ai-90.streamlit.app/`
 - Deck PDF: `deck/SignalRank_AI_Approach_Deck.pdf`
 - Canonical CSV output: `outputs/submission.csv`
 - Portal XLSX output: `outputs/submission.xlsx`
